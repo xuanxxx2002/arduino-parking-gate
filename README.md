@@ -15,7 +15,7 @@
 
 ## 🧩 系統架構
 Arduino 透過超音波感測器（HC-SR04）測量距離，當偵測到車輛接近時，觸發伺服馬達開啟柵欄，車輛離開後自動關閉。
-![image](https://github.com/xuanxxx2002/arduino-parking-gate/blob/main/image.png)
+![image](https://github.com/xuanxxx2002/arduino-parking-gate/blob/main/img.png)
 
 ---
 
