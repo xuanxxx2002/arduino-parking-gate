@@ -1,0 +1,14 @@
+# Arduino IDE
+*.elf
+*.hex
+*.map
+*.bin
+build/
+.arduino15/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
